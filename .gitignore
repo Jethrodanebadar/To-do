@@ -1,0 +1,7 @@
+*.sqlite3
+*.pyc
+*.pyo
+__pycache__/
+todo_env/
+*.log
+*.tmp
